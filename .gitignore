@@ -1,0 +1,16 @@
+# Visual Studio関連の一時ファイル
+.vs/
+*.user
+*.suo
+*.db
+*.aps
+
+# ビルド結果（実行ファイルや中間ファイル）
+x64/
+x86/
+Debug/
+Release/
+
+# Siv3Dのキャッシュ
+App/log.html
+App/log.txt
