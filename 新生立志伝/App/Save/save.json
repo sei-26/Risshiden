@@ -1,0 +1,66 @@
+﻿{
+  "companions": {
+    "active": -1,
+    "officers": [
+      {
+        "bond": 0,
+        "experience": 0,
+        "following": false,
+        "name": "堺の商人・宗助",
+        "subordinate": false
+      },
+      {
+        "bond": 0,
+        "experience": 0,
+        "following": false,
+        "name": "京の武士・景綱",
+        "subordinate": false
+      }
+    ]
+  },
+  "date": {
+    "month": 3,
+    "year": 1560
+  },
+  "estate": {
+    "food": 0,
+    "granted": false,
+    "grantor": "",
+    "people": 40,
+    "plots": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "selected": 0,
+    "treasury": 120
+  },
+  "player": {
+    "age": 17,
+    "experience": 0,
+    "fame": 0,
+    "gold": 100,
+    "leadership": 1,
+    "martial": 10,
+    "merit": 0,
+    "rank": 0,
+    "stamina": 100,
+    "x": 832.7391447825346,
+    "y": 484.7006536385292
+  },
+  "trade": {
+    "active": false,
+    "completed": 0,
+    "damaged": false,
+    "encounterKind": -1,
+    "encounterResolved": true,
+    "prosperity": 0
+  },
+  "version": 1
+}

@@ -1,1 +1,1 @@
-﻿PASS: reachable map, recruitment, joint XP, skills, merit, promotion, estate economy, 120 rendered frames.
+﻿PASS: map, progression, Kyoto scene, trade, save/load round trip, backup recovery, 120 rendered frames.
